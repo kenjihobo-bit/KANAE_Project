@@ -1,0 +1,11 @@
+{
+  "name": "kanae-team-review",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Claude Codeが進行役、GPT・Geminiが論者となって議論する『AIチーム』の仕組み(KANAE)一式",
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "*",
+    "openai": "*"
+  }
+}
