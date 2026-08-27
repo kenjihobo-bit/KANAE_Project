@@ -4,6 +4,12 @@
   "private": true,
   "description": "Claude Codeが進行役、GPT・Geminiが論者となって議論する『AIチーム』の仕組み(KANAE)一式",
   "type": "module",
+  "author": "KANAE_Project",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kenjihobo-bit/KANAE_Project.git"
+  },
   "dependencies": {
     "@google/genai": "*",
     "openai": "*"
